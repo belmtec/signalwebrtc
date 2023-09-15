@@ -1,0 +1,17 @@
+{
+    "socketURL": "/",
+    "dirPath": "",
+    "homePage": "/demo/index.html",
+    "socketMessageEvent": "RTCMultiConnection-Message",
+    "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+    "port": "19302",
+    "enableLogs": "false",
+    "autoRebootServerOnFailure": "false",
+    "isUseHTTPs": "true",
+    "sslKey": "/etc/letsencrypt/live/signal.blugue.com-0001/privkey.pem",
+    "sslCert": "/etc/letsencrypt/live/signal.blugue.com-0001/cert.pem",
+    "sslCabundle": "",
+    "enableAdmin": "false",
+    "adminUserName": "signaladmin",
+    "adminPassword": "12cb4ec28255a3d58dcbc8b1106a14b2313adc72"
+}
